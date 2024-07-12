@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alex20022000
-- 👀 I’m interested in Data Science | Data Analytics | Engineering
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Low level programming | Engineering
+- 🌱 I’m currently learning RTOS
 - 📫 Contact me at alexh.drp@gmail.com
